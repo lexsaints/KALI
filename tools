@@ -1,0 +1,12 @@
+黑客帝国的屏幕字节流
+	Centos:
+	yum install -y cmatrix
+	Debian/Ubuntu
+	sudo apt-get -y cmatrix
+
+	cmatrix
+	cmatric -C red #设置颜色
+鼠标猫
+	yum install -y oneko
+	sudo apt-get install oneko
+	oneko
